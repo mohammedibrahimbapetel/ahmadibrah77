@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmadibrah77
+- 👋 Hi, I’m Ahmad Ibrahim
 - 👀 I’m interested in Email development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on coding emails
