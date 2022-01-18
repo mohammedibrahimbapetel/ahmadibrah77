@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Ibrahim
 - 👀 I’m interested in Email development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently looking for a job
 - 💞️ I’m looking to collaborate on coding emails
 - 📫 How to reach me, contact me at muaminab@gmail.com
 
