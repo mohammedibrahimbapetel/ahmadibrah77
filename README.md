@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmad Ibrahim
+- 👋 Hi, I’m Mohammed Ibrahim Bapetel
 - 👀 I’m interested in Web development
 
 <!---
